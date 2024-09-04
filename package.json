@@ -25,7 +25,7 @@
     "webpack-cli": "^5.1.4"
   },
   "dependencies": {
-    "@extremelyjs/store": "1.0.1",
+    "@extremelyjs/store": "*",
     "@types/react": "^18.2.46",
     "@types/react-dom": "^18.2.18",
     "babel-preset-react": "^6.24.1",
